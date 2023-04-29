@@ -1,3 +1,4 @@
+package chapitre1;
 
 public class Main {
 
